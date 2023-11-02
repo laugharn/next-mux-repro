@@ -1,0 +1,13 @@
+/build
+.DS_Store
+.env
+/.next
+next-env.d.ts
+/node_modules
+/out/
+.pnpm-debug.log*
+/test-results
+/tmp
+/.turbo
+/.vercel
+/.vscode
